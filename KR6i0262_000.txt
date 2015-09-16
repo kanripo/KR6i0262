@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大樹緊那羅王所問經
+#+DATE: 2015-08-30 20:14:22.285642
+#+PROPERTY: JUAN 0
